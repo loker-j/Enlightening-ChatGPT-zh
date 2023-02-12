@@ -53,6 +53,9 @@ http://chat.h2ai.cn/home
 http://xc.com/  
 ****
 # 3.如何注册ChatGPT普通版以及如何购买plus版
+
+觉得麻烦的话可以直接加我微信购买成品号：wanted_2016u
+
 ## 3.1 注册ChatGPT
 ### 3.1.1 手把手教你如何注册ChatGPT，超级详细：https://mp.weixin.qq.com/s/lawj_JU8kwfIsOMAGnP5bQ
 ### 3.1.2手把手教你如何注册体验ChatGPT:https://mp.weixin.qq.com/s/8bipjobqlUqdzDSusjxE-w
