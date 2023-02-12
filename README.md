@@ -163,9 +163,7 @@ https://docs.qq.com/sheet/DRE5jalZKeVZzQlFj?tab=u22b16
 ## 6.1 手把手教你用chatgpt做一个微信助手
 https://gitee.com/xingruispace/wechatgpt
 ## 6.2 微信机器人部署
-还在找部署教程，目前看到一个收费的
-[图片]
-[图片]
+[部署教程](https://blog.csdn.net/ox4f5da2/article/details/128314267?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167616893616800188550593%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167616893616800188550593&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-128314267-null-null.142^v73^control_1,201^v4^add_ask,239^v1^insert_chatgpt&utm_term=ChatGPT%E5%BE%AE%E4%BF%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%A8%E7%BD%B2&spm=1018.2226.3001.4187)
 ## 6.3 飞书部署chatgpt
 https://github.com/bestony/ChatGPT-Feishu
 ## 6.4 搞定ChatGPT接入Siri（钢铁侠的贾维斯？）
