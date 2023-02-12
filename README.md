@@ -5,7 +5,7 @@
 *******
 # 目前目录：
 本内容目前分为七个部分，每日更新：
-1. ChatGPT介绍（包括市场看法以及各种调研报告）
+1. [ChatGPT介绍（包括市场看法以及各种调研报告）](https://github.com/loker-j/Enlightening-ChatGPT-zh/blob/main/README.md#1%E4%BB%8B%E7%BB%8Dchatgpt%E7%9A%84%E6%96%87%E7%AB%A0)
 2. 国内镜像网站（方便直接访问不想注册的朋友，可以尝鲜）
 3. 注册方法（包括普通版注册以及PIUS购买教程）
 4. 变现案例及逻辑（核心部分，赚钱指南）
