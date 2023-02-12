@@ -34,13 +34,12 @@
 ******
 # 1.介绍ChatGPT的文章
 
-1.1 收集了一堆ChatGPT相关的报告（包括框架和学习笔记）：关注公众号：wanted的副业日记 即可领取 
-直达链接：[Alt](https://sourl.cn/CVx9NG "title")
-1.2 最近爆火的ChatGPT，什么来头？[Alt](https://mp.weixin.qq.com/s/8TMG66Xq4A8wxpTT2QVaOQ "title")
-1.3 ChatGPT给了百度灵魂一问[Alt](https://mp.weixin.qq.com/s/N6AlPhfWOrxieUP6wAGIdw "title")
-1.4 爆火的ChatGPT，将开启AI大规模商业[Alt](https://mp.weixin.qq.com/s/xbXT_nyhYauIEhiixA311Q "title")
-1.5 ChatGPT发展历程、原理、技术架构详解和产业未来[Alt](URL "title")mp.weixin.qq.com
-1.6 ChatGPT，背后的核心是什么？| 联合发布[Alt](URL "title")mp.weixin.qq.com
+1.1 收集了一堆ChatGPT相关的报告（包括框架和学习笔记）：关注公众号：wanted的副业日记 即可领取 [直达链接](https://sourl.cn/CVx9NG "title")  
+1.2 [最近爆火的ChatGPT，什么来头？](https://mp.weixin.qq.com/s/8TMG66Xq4A8wxpTT2QVaOQ "title")  
+1.3 [ChatGPT给了百度灵魂一问](https://mp.weixin.qq.com/s/N6AlPhfWOrxieUP6wAGIdw "title")  
+1.4 [爆火的ChatGPT，将开启AI大规模商业](https://mp.weixin.qq.com/s/xbXT_nyhYauIEhiixA311Q "title")  
+1.5 [ChatGPT发展历程、原理、技术架构详解和产业未来](mp.weixin.qq.com "title")
+1.6 [ChatGPT，背后的核心是什么？| 联合发布](mp.weixin.qq.com "title")
 1.7 万字长文：AI产品经理视角的ChatGPT全解析[Alt](URL "title")https://mp.weixin.qq.com/s/vHxi3-bk23QORNsIocIHeA
 1.8 微软ChatGPT版必应被黑掉了，全部Prompt泄露！[Alt](URL "title")https://mp.weixin.qq.com/s/89KeLjDoS9IyArIr8z6jjg
 2.国内镜像访问ChatGPT的网站（不保证稳定）
