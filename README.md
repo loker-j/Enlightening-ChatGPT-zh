@@ -3,16 +3,6 @@
 
 写在前面：大家伙，我是式钦，去年十二月份就关注到了ChatGPT,但是当时只是抱着玩一玩的心态去试用这个人工智能，并没有想到这么多。但是最近ChatGPT越演越烈，进入了大众舆论的环节，大家都在讨论ChatGPT能替代哪些工作，讨论很多事情。我希望在这个繁华的网络中寻找到一些信号给你，让你能够看到真正有用的信息，学会去利用ChatGPT提升自己，去作为杠杆撬动自己的人生。因此整理了一下近期收集到的资料希望能够大家一点启发，毕竟目前还在风口上，如果思路好的话我觉得还是可以有一番作为的。
 *******
-# 目前目录：
-本内容目前分为七个部分，每日更新：
-1. [ChatGPT介绍（包括市场看法以及各种调研报告）](https://github.com/loker-j/Enlightening-ChatGPT-zh/blob/main/README.md#1%E4%BB%8B%E7%BB%8Dchatgpt%E7%9A%84%E6%96%87%E7%AB%A0)
-2. 国内镜像网站（方便直接访问不想注册的朋友，可以尝鲜）
-3. 注册方法（包括普通版注册以及PIUS购买教程）
-4. 变现案例及逻辑（核心部分，赚钱指南）
-5. 玩法大全（一些有意思的点，启发思路）
-6. 技术教程（大神们的教程，包括机器人部署，连接siri等）
-7. 导航网站，灵感来源（国内外现有的AI产品，可以寻找细分赛道）
-******
 # 交流说明
 另外，我会长期更新这个帖子，如果大家有什么好的资料也可以私信给我或者交流一些看法与意见，谢谢大家，下面是我微信：wanted_2016u
 
@@ -31,6 +21,16 @@
 *****
 # 更新说明
 - 2.11更新了三个案例：4.11、4.12、4.13；更新了一个英文promet指南
+******
+# 目前目录：
+本内容目前分为七个部分，每日更新：
+1. [ChatGPT介绍（包括市场看法以及各种调研报告）](https://github.com/loker-j/Enlightening-ChatGPT-zh/blob/main/README.md#1%E4%BB%8B%E7%BB%8Dchatgpt%E7%9A%84%E6%96%87%E7%AB%A0)
+2. [国内镜像网站（方便直接访问不想注册的朋友，可以尝鲜）](https://github.com/loker-j/Enlightening-ChatGPT-zh#2%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E8%AE%BF%E9%97%AEchatgpt%E7%9A%84%E7%BD%91%E7%AB%99%E4%B8%8D%E4%BF%9D%E8%AF%81%E7%A8%B3%E5%AE%9A)
+3. [注册方法（包括普通版注册以及PIUS购买教程）](https://github.com/loker-j/Enlightening-ChatGPT-zh#3%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8Cchatgpt%E6%99%AE%E9%80%9A%E7%89%88%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0plus%E7%89%88)
+4. [变现案例及逻辑（核心部分，赚钱路径指南及变现逻辑）](https://github.com/loker-j/Enlightening-ChatGPT-zh#4%E9%82%A3%E4%BA%9B%E5%8F%98%E7%8E%B0%E7%9A%84%E6%A1%88%E4%BE%8B%E5%8F%8A%E5%85%B6%E9%80%BB%E8%BE%91)
+5. [玩法大全（一些有意思的点，启发思路）](https://github.com/loker-j/Enlightening-ChatGPT-zh#5chatgpt%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%85%A8)
+6. [技术教程（大神们的教程，包括机器人部署，连接siri等）](https://github.com/loker-j/Enlightening-ChatGPT-zh#6%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B%E5%AD%A6%E4%BC%9A%E4%BA%86%E9%82%A3%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%8D%96%E6%9C%8D%E5%8A%A1%E5%AE%9A%E5%88%B6%E6%9C%8D%E5%8A%A1%E6%9C%89%E9%9C%80%E8%A6%81%E5%AE%9A%E5%88%B6%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%81%94%E7%B3%BB%E6%88%91wanted_2016u)
+7. [导航网站，灵感来源（国内外现有的AI产品，可以寻找细分赛道）](https://github.com/loker-j/Enlightening-ChatGPT-zh#7%E5%9B%BD%E5%A4%96ai%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99)
 ******
 # 1.介绍ChatGPT的文章
 
